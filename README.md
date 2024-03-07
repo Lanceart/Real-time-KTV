@@ -7,6 +7,7 @@ This architecture fundamentally relies on a client-server model, with the server
 Alternative methodologies, such as mDNS (Multicast DNS), have been explored to facilitate device discovery and networking within local environments. Yet, the paramount concern that has emerged from preliminary investigations is the assurance of audio quality. Ensuring a high-fidelity, synchronized playback experience across multiple clients, each with potentially different hardware capabilities and network conditions, is crucial to the project's success.
 
 Upon securing employment, I intend to continue dedicating efforts to this compelling project. The objective is to surmount the identified technical challenges, with a particular focus on enhancing audio quality and system interoperability, thereby realizing a robust solution that supports multi-user, real-time singing experiences. This endeavor represents not only a significant technical undertaking but also an opportunity to enrich the social and interactive dimensions of music engagement through technology.
+![image](https://github.com/Lanceart/Real-time-KTV/assets/62589604/1e02ca2f-095f-478b-a331-c34933316a1a)
 
 ## Finished
 
