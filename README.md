@@ -19,3 +19,19 @@ During the development and testing phases, several challenges were encountered, 
 - Audio Distortion: Users experienced significant audio distortion during real-time playback, described as severe shaking or sounding as if speaking underwater.
 - Feedback Loops: Without the use of headphones, feedback loops caused by the microphone picking up speaker output led to degraded audio quality.
 - Buffer Size Mismanagement: Improper buffer size configuration in the Web Audio API contributed to audio quality issues, including distortion and latency.
+
+
+## Future Development
+
+
+- Bluetooth Connectivity: Investigate and implement Bluetooth support for external microphones and headphones. Bluetooth devices often have built-in noise cancellation and can provide higher quality audio input and output.
+
+- Advanced Audio Processing: Explore advanced audio processing options in the Web Audio API, such as dynamic compression and frequency filtering, to further reduce distortion and improve audio clarity.
+
+- Hardware Optimization: Test the application across a range of devices to identify any hardware-specific issues. Consider recommending specific hardware configurations or devices known to work well with the application.
+
+- Performance Profiling: Conduct thorough performance profiling to identify any bottlenecks in the audio processing pipeline. Optimizations may include more efficient audio processing algorithms or adjustments to the real-time playback mechanism.
+
+- User Feedback Collection: Implement a feature for collecting user feedback on audio quality issues. Real-world usage data can provide valuable insights into common problems and potential improvements.
+
+- Continuous Research: Stay updated with the latest developments in web audio processing technologies. New APIs, libraries, or techniques could offer solutions to current challenges.
